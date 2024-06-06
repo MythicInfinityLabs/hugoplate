@@ -1,9 +1,9 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/mythicinfinity"
     },
     {
       "name": "twitter",
@@ -13,7 +13,7 @@
     {
       "name": "github",
       "icon": "fab fa-github",
-      "link": "https://www.github.com/"
+      "link": "https://www.github.com/MythicInfinityLabs"
     },
     {
       "name": "linkedin",
