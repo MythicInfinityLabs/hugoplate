@@ -40,8 +40,8 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
-label = "get a quote"
+enable = false
+label = "Sign Up"
 link = "contact"
 
 # search
@@ -65,10 +65,10 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-image = "images/og-image.png"
+keywords = ["MythicInfinity", "Artificial Intelligence", "Machine Learning"]
+description = "Mythic Infinity Labs"
+author = "mythicinfinity"
+image = "images/og-image.jpg"
 
 
 # site verifications
